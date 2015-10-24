@@ -1,0 +1,267 @@
+GATLING_HOME is set to /Volumes/Work/dev/gatling
+here
+here2
+/usr/bin/java
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
+Invalid characters, please provide a correct simulation number:
+Choose a simulation number:
+     [0] RecordedSimulation
+     [1] aaa.RecordedSimulation
+     [2] aabb.RecordedSimulation
+     [3] bbbb.RecordedSimulation
+     [4] bg.RecordedSimulation
+     [5] computerdatabase.BasicSimulation
+     [6] computerdatabase.advanced.AdvancedSimulationStep01
+     [7] computerdatabase.advanced.AdvancedSimulationStep02
+     [8] computerdatabase.advanced.AdvancedSimulationStep03
+     [9] computerdatabase.advanced.AdvancedSimulationStep04
+     [10] computerdatabase.advanced.AdvancedSimulationStep05
+     [11] nbnb.RecordedSimulation
+     [12] pr_comment.create
+     [13] sdsd.RecordedSimulation
+     [14] ss.RecordedSimulation
+     [15] sss.RecordedSimulation
+     [16] test.RecordedSimulation
+     [17] tt.RecordedSimulation
+     [18] uuu.RecordedSimulation
+     [19] vvvv.RecordedSimulation
+     [20] xx2.RecordedSimulation
+     [21] xx23.RecordedSimulation
